@@ -1,6 +1,6 @@
 # DISNEY-PLUS-CLONE
 
-![Demo](https://user-images.githubusercontent.com/46050946/121802689-419f9600-cc5b-11eb-9559-99ea1cdf72d4.png)
+![Demo](https://user-images.githubusercontent.com/46050946/122204050-4dd65e00-cebc-11eb-9b50-9fe352cade87.png)
 
 ### 1. Firebase link of this project
 ### 2. [Key Features](#key-features) 
@@ -17,9 +17,13 @@
     🟢 Dynamically fetching data from database.
 
   
-  ### Demo
+  ### Authentication:
   
-  [![Demo](https://user-images.githubusercontent.com/46050946/121802689-419f9600-cc5b-11eb-9559-99ea1cdf72d4.png)](https://user-images.githubusercontent.com/46050946/121802291-216ed780-cc59-11eb-9190-c97aaaf03023.mp4)
+  [![Demo](https://user-images.githubusercontent.com/46050946/122204050-4dd65e00-cebc-11eb-9b50-9fe352cade87.png)](https://user-images.githubusercontent.com/46050946/122205264-ae19cf80-cebd-11eb-8026-1a3d45c05cd2.mp4)
+  
+  ### Build Showcase:
+  
+  [![Demo](https://user-images.githubusercontent.com/46050946/122204050-4dd65e00-cebc-11eb-9b50-9fe352cade87.png)](https://user-images.githubusercontent.com/46050946/122205923-6a739580-cebe-11eb-94a7-a5ee21c03600.mp4)
   
   **[⬆ Back to Top](#disney-plus-clone)**
 
