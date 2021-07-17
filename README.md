@@ -45,7 +45,7 @@
 
     🔷  Firebase-firestore => to fetch data from database.
 
-    🔷  Firebase => to deploy the app
+    🔷  Firebase => to deploy the app 
 
     
   **[⬆ Back to Top](#disney-plus-clone)**
